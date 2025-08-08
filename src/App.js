@@ -16,7 +16,7 @@ function App() {
         <button className="custom-btn btn-8"><span>Read More</span></button>
         <button className="custom-btn btn-9">Read More</button>
         <button className="custom-btn btn-10">Read More</button>
-        <button className="custom-btn btn-11">Read More<div class="dot"></div></button>
+        <button className="custom-btn btn-11">Read More<div className="dot"></div></button>
         <button className="custom-btn btn-12"><span>Click!</span><span>Read More</span></button>
         <button className="custom-btn btn-13">Read More</button>
         <button className="custom-btn btn-14">Read More</button>
